@@ -1,0 +1,31 @@
+.nav-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.nav-button {
+  background-color: transparent;
+  border: 0px solid transparent;
+  margin-right: 10px;
+}
+.theme-icon {
+  height: 80px;
+}
+.profile-img {
+  width: 28px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.logout-button-large {
+  background-color: transparent;
+  color: #3b82f6;
+  border: 1px solid #3b82f6;
+  padding: 4px;
+  border-radius: 4px;
+  width: 80px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
